@@ -1,5 +1,4 @@
 
-
 ---
 
 ### 📊 **Microsoft Visual Mart - Sales & Returns Analysis Dashboard**  
@@ -30,8 +29,6 @@ This dashboard helps businesses make **data-driven decisions** with real-time in
 ---
 
 
----
-
 ## 📌 **Features & Insights**  
 
 ✅ **Sales Performance Analysis**: Tracks **total sales ($12.64M), quantity (178.31K), and returns (1079)**  
@@ -58,5 +55,6 @@ This dashboard helps businesses make **data-driven decisions** with real-time in
 🔹 Automating **data updates** using Power BI Service  
 🔹 Enhancing **UI/UX** for better user experience  
 
----
+![Dashboard Preview](https://raw.githubusercontent.com/Mayank59CSE/Microsoft-Visual-Mart-Sales-Returns-Analysis-Dashboard/main/Screenshot%20(163).png)
+
 �
